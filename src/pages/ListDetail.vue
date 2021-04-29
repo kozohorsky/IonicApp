@@ -32,5 +32,10 @@ export default {
       return this.$store.getters.item(this.itemId);
     },
   },
+  watch: {
+    $route(currentRoute) {
+      this.itemId = currentRoute.params.id;
+    },
+  },
 };
 </script>

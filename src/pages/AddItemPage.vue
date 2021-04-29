@@ -2,7 +2,6 @@
   <base-layout page-title="Pridej polozku" page-default-back-link="/list">
     <create-item-form @save-item="saveItem"></create-item-form>
   </base-layout>
-  <h2>Pridat polozku</h2>
 </template>
 
 <script>

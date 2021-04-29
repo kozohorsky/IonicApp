@@ -5,7 +5,6 @@
         <ion-icon slot="icon-only" :icon="add"></ion-icon>
       </ion-button>
     </template>
-
     <items-list :list="list"></items-list>
   </base-layout>
 </template>

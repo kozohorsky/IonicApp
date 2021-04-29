@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nakupni seznam</string>
+    <string name="title_activity_main">Nakupni seznam</string>
+    <string name="package_name">com.kozohorskydiplomovaprace.app</string>
+    <string name="custom_url_scheme">com.kozohorskydiplomovaprace.app</string>
+</resources>
